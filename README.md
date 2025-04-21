@@ -8,7 +8,7 @@ Unsubly is a Chrome extension that helps users manage and unsubscribe from email
 
 ## Viewing the Privacy Policy
 
-The privacy policy is available at: https://unsubly.app/privacy
+The privacy policy is available at: https://unsubly.github.io/unsubly-privacy/
 
 ## Local Development
 
